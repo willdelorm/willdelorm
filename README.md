@@ -7,9 +7,9 @@ Frontend Developer
 I am a frontend developer with 2 years of experience.
 
 * 🌍  I'm based in Oregon, USA
-* 🖥️  See my portfolio at [My Portfolio](http://willdelorm.com)
+* 🖥️  See my portfolio on [my website](http://willdelorm.com)
 * ✉️  You can contact me at [willdelorm@gmail.com](mailto:willdelorm@gmail.com)
-* 🚀  I'm currently working on [Rock Climbing App](http://https://github.com/willdelorm/climbing-app)
+* 🚀  I'm currently working on [consistent coding & learning for 100 days](http://https://github.com/willdelorm/code100)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love rock climbing and new experiences!
